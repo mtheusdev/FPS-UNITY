@@ -51,7 +51,7 @@ public class Move : MonoBehaviour
 
         }
 
-        canvasJogador.gameObject.transform.LookAt(Camera.main.transform);
+        // canvasJogador.gameObject.transform.LookAt(Camera.main.transform);
     }
     // [PunRPC]
     private void Tiros() {
